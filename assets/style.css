@@ -55,6 +55,13 @@ section p {
     width: 30%;
 }
 
+
+.projectsImages {
+    margin: 2%;
+    width: 40%;
+    height: 40%;
+}
+
 #aboutMe {
     justify-content: center;
     background-color: var(--mainColor);
@@ -79,9 +86,8 @@ section p {
     height: 80%;
 }
 
-.projectsImages {
-    margin: 2%;
-    width: 40%;
-    height: 40%;
+#contactMe{
+    display: flex;
+    background-color: #C7AC92;
+    flex-wrap: wrap;
 }
-
