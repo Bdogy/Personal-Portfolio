@@ -1,0 +1,30 @@
+:root{
+    --mainColor: #A44A3F;
+    --lightText:white;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--mainColor);
+}
+
+header nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-right: 5%;
+}
+header h1{
+    padding: 2%;
+    font-size:30px;
+    font-weight: bolder;
+    color: var(--lightText);
+}
+
+header a {
+    padding: 2%;
+    font-size: 25px;
+    text-decoration: none;
+    color: var(--lightText);
+}
