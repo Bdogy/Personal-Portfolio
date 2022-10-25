@@ -2,6 +2,7 @@
     --mainColor: #A44A3F;
     --lightText:white;
 }
+    /* edit fonts later  */
 
 header{
     display: flex;
@@ -17,7 +18,7 @@ header nav{
 }
 header h1{
     padding: 2%;
-    font-size:30px;
+    font-size:27px;
     font-weight: bolder;
     color: var(--lightText);
 }
@@ -27,4 +28,34 @@ header a {
     font-size: 25px;
     text-decoration: none;
     color: var(--lightText);
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--mainColor);
+    padding: 2%;
+}
+
+h2 {
+    padding: 2%;
+    font-size: 70px;
+    font-weight: bolder;
+    background-color: var(--mainColor);
+}
+
+section h3 {
+    margin-top: 2%;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+section p {
+    margin-top: 1%;
+    width: 20%;
+}
+
+section img {
+    width: 25%;
+    height: 25%;
 }
