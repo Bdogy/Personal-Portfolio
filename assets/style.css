@@ -56,10 +56,45 @@ section p {
 }
 
 
-.projectsImages {
+.projects{
+    background-color:#9CB380 ;
+    text-align: right;  
+    flex-wrap: wrap; 
+}
+
+.projects img{
     margin: 2%;
     width: 40%;
-    height: 40%;
+    height: 40%; 
+}
+
+.projects article {
+    display: flex;
+    align-items: flex-end;
+    width: 800px;
+    height: 400px;
+    background-size: 800px 400px;
+    background-image: url(./Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg) ;
+}
+
+/* title inside of project cards styling */
+.projects article div {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 40%;
+    height: 15%;
+    background-color: #A44A3F;
+
+}
+
+.projects article div h4{
+    padding: 4%;
+    text-decoration: none;
+    color: white;
+    text-decoration: underline;
+    font-size: 30px;
+
 }
 
 .contactMe{
@@ -92,7 +127,6 @@ section p {
 #projects {
     background-color:#9CB380 ;
     text-align: right;  
-    flex-wrap: wrap;  
 }
 
 #projectsImagesLatest {
