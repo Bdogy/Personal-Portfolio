@@ -63,12 +63,14 @@ section p {
 }
 
 .contactMe{
+    display: flex;
     justify-content: space-evenly;
+    background-color: #C7AC92;
 }
 
 .contactMe img{
-    margin-top: 10%;
-    width: 5%;
+    padding-top: 30%;
+    width: 50px;
 
 
 }
@@ -99,9 +101,11 @@ section p {
 }
 
 #contactMe{
-    display: flex;
+    padding: 1%;
     background-color: #C7AC92;
-    flex-wrap: wrap;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
 }
 
 
