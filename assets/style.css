@@ -65,6 +65,7 @@ section p {
 #aboutMe {
     justify-content: center;
     background-color: var(--mainColor);
+    
 }
 
 #aboutMeImage {
@@ -91,3 +92,5 @@ section p {
     background-color: #C7AC92;
     flex-wrap: wrap;
 }
+
+
