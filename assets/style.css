@@ -62,6 +62,17 @@ section p {
     height: 40%;
 }
 
+.contactMe{
+    justify-content: space-evenly;
+}
+
+.contactMe img{
+    margin-top: 10%;
+    width: 5%;
+
+
+}
+
 #aboutMe {
     justify-content: center;
     background-color: var(--mainColor);
