@@ -69,11 +69,12 @@ section p {
 }
 
 .projects article {
+    margin: 10px;
     display: flex;
     align-items: flex-end;
-    width: 800px;
-    height: 400px;
-    background-size: 800px 400px;
+    width: 390px;
+    height: 200px;
+    background-size: 400px 200px;
     background-image: url(./Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg) ;
 }
 
@@ -93,7 +94,7 @@ section p {
     text-decoration: none;
     color: white;
     text-decoration: underline;
-    font-size: 30px;
+    font-size: 20px;
 
 }
 
@@ -129,9 +130,14 @@ section p {
     text-align: right;  
 }
 
-#projectsImagesLatest {
-    width: 80%;
-    height: 80%;
+#projectsLatest {
+    width: 800px;
+    height: 400px;
+    background-size: 800px 400px;
+}
+
+#projectsLatestTitle {
+    font-size: 35px;
 }
 
 #contactMe{
