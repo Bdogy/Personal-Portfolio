@@ -7,12 +7,12 @@ This is my own personal Portfolio Webpage, a nice landing page to see an about m
 ## Github Page
 
 Link to the github page:
-(https://bdogy.github.io/Portfolio/#contactMeHeader)
+(https://bdogy.github.io/Portfolio/)
 
 ## Screen shots
 
-![Alt text](/screenShots/portfolio_screenshot1.png)
-![Alt text](/screenShots/portfolio_screenshot2.png)
-![Alt text](/screenShots/portfolio_screenshot3.png)
-![Alt text](/screenShots/portfolio_screenshot4.png)
+![Alt text](./screenShots/portfolio_screenshot1.png)
+![Alt text](./screenShots/portfolio_screenshot2.png)
+![Alt text](./screenShots/portfolio_screenshot3.png)
+![Alt text](./screenShots/portfolio_screenshot4.png)
 
