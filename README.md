@@ -11,8 +11,8 @@ Link to the github page:
 
 ## Screen shots
 
-![Alt text](/screenshots/portfolio_screenshot1.png)
-![Alt text](/screenshots/portfolio_screenshot2.png)
-![Alt text](/screenshots/portfolio_screenshot3.png)
-![Alt text](/screenshots/portfolio_screenshot4.png)
+![Alt text](/screenShots/portfolio_screenshot1.png)
+![Alt text](/screenShots/portfolio_screenshot2.png)
+![Alt text](/screenShots/portfolio_screenshot3.png)
+![Alt text](/screenShots/portfolio_screenshot4.png)
 
