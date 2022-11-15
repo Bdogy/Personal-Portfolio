@@ -7,7 +7,7 @@ This is my own personal Portfolio Webpage, a nice landing page to see an about m
 ## Github Page
 
 Link to the github page:
-(https://bdogy.github.io/Portfolio/)
+(https://bdogy.github.io/Personal-Portfolio/)
 
 ## Screen shots
 
